@@ -104,7 +104,7 @@ http://localhost:3000
 
 ## 📄 Лицензия
 
-MIT
+Almaty Polytechnic College 
 
 ---
 
